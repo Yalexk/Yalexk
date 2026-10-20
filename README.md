@@ -1,8 +1,10 @@
 # Hi, There 👋
 
-I'm Alex, CS student at based in Sydney.  
+I'm Alex, CS student based in Sydney.  
 
 I like building practical AI/ML systems, focusing on fine-tuning NLP models, designing end-to-end data pipelines, and connecting modern language models to robust system design.
+
+[![Website](https://img.shields.io/badge/Website-yalexk.github.io-000000?style=flat&logo=githubpages&logoColor=white)](https://yalexk.github.io)
 
 Here is my main tech stack!
 
